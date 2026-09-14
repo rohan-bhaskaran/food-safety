@@ -1,0 +1,45 @@
+{
+  "manufacturer": {
+    "name": "Sunrise Foods Pvt Ltd",
+    "address": "Plot 42, Industrial Area, Hyderabad, Telangana 500032, India",
+    "role": "Manufacturer"
+  },
+  "commodityName": "Biscuits",
+  "netQuantity": {
+    "value": 500,
+    "unit": "g"
+  },
+  "date": {
+    "month": "08",
+    "year": "2026",
+    "type": "manufacture"
+  },
+  "mrp": {
+    "value": 120,
+    "currency": "INR",
+    "inclusiveOfAllTaxes": true
+  },
+  "consumerCare": {
+    "phone": "1800-123-4567",
+    "email": "care@sunrisefoods.com",
+    "address": ""
+  },
+  "countryOfOrigin": "India",
+  "unitSalePrice": {
+    "value": 240,
+    "unit": "kg"
+  },
+  "confidence": {
+    "overall": 0.92,
+    "manufacturer.name": 0.95,
+    "manufacturer.address": 0.9,
+    "commodityName": 0.95,
+    "netQuantity": 0.93,
+    "date": 0.88,
+    "mrp": 0.94,
+    "consumerCare": 0.91,
+    "countryOfOrigin": 0.85,
+    "unitSalePrice": 0.87
+  },
+  "rawText": "Sunrise Foods Pvt Ltd, Plot 42, Industrial Area, Hyderabad, Telangana 500032. Biscuits. Net Wt: 500 g. Mfd: Aug 2026. MRP ₹120 (inclusive of all taxes). Unit Sale Price: ₹240/kg. Customer Care: 1800-123-4567, care@sunrisefoods.com. Made in India."
+}

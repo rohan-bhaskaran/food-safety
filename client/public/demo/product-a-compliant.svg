@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="800" viewBox="0 0 600 800">
+  <rect width="600" height="800" fill="#fef9c3"/>
+  <rect x="20" y="20" width="560" height="760" fill="white" stroke="#333" stroke-width="2"/>
+  <text x="300" y="60" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="bold" fill="#333">Sunrise Foods Pvt Ltd</text>
+  <text x="300" y="90" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#555">Plot 42, Industrial Area, Hyderabad, Telangana 500032, India</text>
+  <text x="300" y="130" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" font-weight="bold" fill="#b45309">Biscuits</text>
+  <text x="300" y="180" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#333">Net Wt: 500 g</text>
+  <text x="300" y="220" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#333">Mfd: Aug 2026</text>
+  <text x="300" y="270" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" font-weight="bold" fill="#059669">MRP ¹120</text>
+  <text x="300" y="300" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#059669">(inclusive of all taxes)</text>
+  <text x="300" y="340" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#333">Unit Sale Price: ¹240/kg</text>
+  <text x="300" y="390" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#333">Customer Care: 1800-123-4567</text>
+  <text x="300" y="415" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#333">Email: care@sunrisefoods.com</text>
+  <text x="300" y="460" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#333">Made in India</text>
+  <text x="300" y="750" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#999">Test Product A  Expected: COMPLIANT</text>
+</svg>

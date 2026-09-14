@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="800" viewBox="0 0 600 800">
+  <rect width="600" height="800" fill="#fecaca"/>
+  <rect x="20" y="20" width="560" height="760" fill="white" stroke="#333" stroke-width="2"/>
+  <text x="300" y="60" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="bold" fill="#333">QuickSnacks Co</text>
+  <text x="300" y="90" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#555">Mumbai, Maharashtra, India</text>
+  <text x="300" y="140" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" font-weight="bold" fill="#dc2626">Potato Chips</text>
+  <text x="300" y="200" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#333">Packed: 07/2026</text>
+  <text x="300" y="260" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" font-weight="bold" fill="#333">MRP ¹50</text>
+  <text x="300" y="750" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#999">Test Product B  Expected: NON-COMPLIANT (3 issues)</text>
+</svg>

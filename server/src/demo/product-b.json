@@ -1,0 +1,45 @@
+{
+  "manufacturer": {
+    "name": "QuickSnacks Co",
+    "address": "Mumbai, Maharashtra, India",
+    "role": "Packer"
+  },
+  "commodityName": "Potato Chips",
+  "netQuantity": {
+    "value": null,
+    "unit": ""
+  },
+  "date": {
+    "month": "07",
+    "year": "2026",
+    "type": "packing"
+  },
+  "mrp": {
+    "value": 50,
+    "currency": "INR",
+    "inclusiveOfAllTaxes": false
+  },
+  "consumerCare": {
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  "countryOfOrigin": "",
+  "unitSalePrice": {
+    "value": null,
+    "unit": ""
+  },
+  "confidence": {
+    "overall": 0.78,
+    "manufacturer.name": 0.85,
+    "manufacturer.address": 0.7,
+    "commodityName": 0.9,
+    "netQuantity": 0.15,
+    "date": 0.8,
+    "mrp": 0.88,
+    "consumerCare": 0.1,
+    "countryOfOrigin": 0.05,
+    "unitSalePrice": 0.05
+  },
+  "rawText": "QuickSnacks Co, Mumbai, Maharashtra. Potato Chips. Packed: 07/2026. MRP ₹50."
+}

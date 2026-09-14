@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/complianceresult.tsx","./src/components/extracteddatapanel.tsx","./src/components/fieldchecklist.tsx","./src/components/issueslist.tsx","./src/components/processingstate.tsx","./src/components/uploadzone.tsx","./src/services/api.ts","./src/types/compliance.ts"],"version":"5.9.3"}

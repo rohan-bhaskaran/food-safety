@@ -3,7 +3,7 @@ import { ExtractionResult } from "../../validators/types.js";
 import { EXTRACTION_PROMPT } from "../extraction/extractionSchema.js";
 import { normalizeExtraction } from "../extraction/normalize.js";
 
-const MODEL = "gemini-2.0-flash";
+const MODEL = "gemini-3.6-flash";
 
 export class ExtractionError extends Error {
   constructor(message: string) {
